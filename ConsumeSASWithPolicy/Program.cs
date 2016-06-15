@@ -1,5 +1,7 @@
 ﻿//Install-Package WindowsAzure.Storage
+//Update-Package –reinstall WindowsAzure.Storage
 //Install-Package Microsoft.WindowsAzure.ConfigurationManager
+//Update-Package –reinstall Microsoft.WindowsAzure.ConfigurationManager
 
 using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.Storage.Blob;
