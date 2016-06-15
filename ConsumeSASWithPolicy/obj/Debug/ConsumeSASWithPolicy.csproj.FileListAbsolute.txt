@@ -1,0 +1,72 @@
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ConsumeSASWithPolicy.exe.config
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ConsumeSASWithPolicy.exe
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ConsumeSASWithPolicy.pdb
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.Edm.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.OData.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Newtonsoft.Json.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\System.Spatial.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.Edm.xml
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.OData.xml
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\Newtonsoft.Json.xml
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\System.Spatial.xml
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\de\System.Spatial.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\es\System.Spatial.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\fr\System.Spatial.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\it\System.Spatial.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ja\System.Spatial.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ko\System.Spatial.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\ru\System.Spatial.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\obj\Debug\ConsumeSASWithPolicy.csprojResolveAssemblyReference.cache
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\obj\Debug\ConsumeSASWithPolicy.exe
+D:\Source\Workspaces\CPEWorkspace\CPE Dashboards\Dev\SASWithPolicy\ConsumeSASWithPolicy\obj\Debug\ConsumeSASWithPolicy.pdb
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\ConsumeSASWithPolicy.exe.config
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\obj\Debug\ConsumeSASWithPolicy.exe
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\obj\Debug\ConsumeSASWithPolicy.pdb
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\ConsumeSASWithPolicy.exe
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\ConsumeSASWithPolicy.pdb
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.Edm.dll
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.OData.dll
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\System.Spatial.dll
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.Edm.xml
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.OData.xml
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\GitHubRepos\AccessAzureStorageSAS\ConsumeSASWithPolicy\bin\Debug\System.Spatial.xml
